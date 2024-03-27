@@ -42,3 +42,7 @@ The results from using the default mesh and a finer mesh are compared, showing m
 ## Notes:
 While the heat sink significantly reduces CPU temperatures, additional cooling measures like forced convection with a computer fan are recommended for optimal thermal management.
 
+## Reference and CAD file
+
+- [Ansys Courses](https://courses.ansys.com/)
+
